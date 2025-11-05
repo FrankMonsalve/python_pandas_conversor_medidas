@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+#como se instala un requirement.txt
+#pip install -r .\requirements.txt
